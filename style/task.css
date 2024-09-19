@@ -1,0 +1,13 @@
+.first{
+    border-top: 1px solid rgb(34, 25, 25);
+    margin-top: 10px;
+}
+a{
+    display: block;
+}
+.second{
+    border-bottom: 1px solid rgb(34, 25, 25);
+}
+.feed{
+    margin-top: 10px;
+}
